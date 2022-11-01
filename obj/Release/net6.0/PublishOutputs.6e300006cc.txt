@@ -1,0 +1,7 @@
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/vscGit1011
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/appsettings.json
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/vscGit1011.dll
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/vscGit1011.deps.json
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/vscGit1011.runtimeconfig.json
+/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/bin/Release/net6.0/publish/vscGit1011.pdb
