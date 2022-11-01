@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj": {}
+    "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj": {}
   },
   "projects": {
-    "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj": {
+    "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj",
+        "projectUniqueName": "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj",
         "projectName": "vscGit1011",
-        "projectPath": "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj",
+        "projectPath": "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/vscGit1011.csproj",
         "packagesPath": "/Users/jaepil/.nuget/packages/",
-        "outputPath": "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/obj/",
+        "outputPath": "/Users/jaepil/Library/CloudStorage/OneDrive-SILLAUNIVERSITY/[0]COMIT/2022-2/클라우드컴퓨팅이해/vscGit1011/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jaepil/.nuget/NuGet/NuGet.Config"
